@@ -1,4 +1,4 @@
-This exercise is from (Parsity)[https://parsity.io]. Learn JavaScript with dev30 or check out Inner Circle for coding program customized for you.
+This exercise is from [Parsity](https://parsity.io). Learn JavaScript with dev30 or check out Inner Circle for coding program customized for you.
 
 # Coffee Shop Exercise
 
