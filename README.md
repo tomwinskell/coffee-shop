@@ -1,4 +1,6 @@
-# Coffee Shop Exercise  
+This exercise is from (Parsity)[https://parsity.io]. Learn JavaScript with dev30 or check out Inner Circle for coding program customized for you.
+
+# Coffee Shop Exercise
 
 Use the following code to complete this exercise. Your task is to implement the `makeDrink` function and enhance the coffee shop's operations.  
 
